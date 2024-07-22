@@ -1,15 +1,18 @@
-from flask import Flask, jsonify
+from flask import Flask, request, jsonify
 from db import conn
 
 app = Flask(__name__)
 
-@app.route('/data', methods=['GET'])
-def get_data():
+@app.route('/data', methods=['POST'])
+def post_data():
+    data = request.json
     cursor = conn.cursor()
-    cursor.execute('SELECT * FROM YourTable')
-    rows = cursor.fetchall()
-    data = [dict(zip([column[0] for column in cursor.description], row)) for row in rows]
-    return jsonify(data)
+    cursor.execute(
+        "INSERT INTO data (id, sensor, value_) VALUES (?, ?, ?)",
+        (data['id'], data['sensor'], data['value_'])
+    )
+    conn.commit()
+    return jsonify({"message": "Data inserted successfully"}), 201
 
 if __name__ == '__main__':
     app.run(debug=True)
