@@ -1,12 +1,22 @@
 import logging
 from flask import Flask, request, jsonify
 from db import conn
+import ssl
 
 # Set up logging
 logging.basicConfig(filename='post_requests.log', level=logging.INFO,
                     format='%(asctime)s %(levelname)s %(message)s')
 
 app = Flask(__name__)
+
+# Define SSL certificate and key file paths 
+CERT_FILE = "cert.pem" 
+KEY_FILE = "key.pem" 
+
+# Create SSL context for server
+context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
+context.minimum_version = ssl.TLSVersion.TLSv1_2
+context.load_cert_chain(certfile=CERT_FILE, keyfile=KEY_FILE)
 
 @app.route('/data', methods=['POST'])
 def post_data():
@@ -40,4 +50,4 @@ def post_data():
     return jsonify({"message": "Data inserted successfully"}), 201
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True, ssl_context=context)

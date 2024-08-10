@@ -1,0 +1,704 @@
+
+2024-08-10 13:51:19,266 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.2.12:5000
+2024-08-10 13:51:19,266 INFO [33mPress CTRL+C to quit[0m
+2024-08-10 13:51:19,271 INFO  * Restarting with stat
+2024-08-10 13:51:19,751 WARNING  * Debugger is active!
+2024-08-10 13:51:19,760 INFO  * Debugger PIN: 466-930-570
+2024-08-10 13:52:22,624 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\app.py', reloading
+2024-08-10 13:52:22,657 INFO  * Restarting with stat
+2024-08-10 13:52:23,165 WARNING  * Debugger is active!
+2024-08-10 13:52:23,175 INFO  * Debugger PIN: 466-930-570
+2024-08-10 13:52:27,261 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\app.py', reloading
+2024-08-10 13:52:27,293 INFO  * Restarting with stat
+2024-08-10 13:52:27,844 WARNING  * Debugger is active!
+2024-08-10 13:52:27,853 INFO  * Debugger PIN: 466-930-570
+2024-08-10 13:52:29,389 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.2.12:5000
+2024-08-10 13:52:29,389 INFO [33mPress CTRL+C to quit[0m
+2024-08-10 13:52:29,393 INFO  * Restarting with stat
+2024-08-10 13:52:29,887 WARNING  * Debugger is active!
+2024-08-10 13:52:29,897 INFO  * Debugger PIN: 466-930-570
+2024-08-10 13:53:03,379 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\app.py', reloading
+2024-08-10 13:53:03,406 INFO  * Restarting with stat
+2024-08-10 13:53:03,925 WARNING  * Debugger is active!
+2024-08-10 13:53:03,935 INFO  * Debugger PIN: 466-930-570
+2024-08-10 13:53:07,865 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.2.12:5000
+2024-08-10 13:53:07,865 INFO [33mPress CTRL+C to quit[0m
+2024-08-10 13:53:07,869 INFO  * Restarting with stat
+2024-08-10 13:53:08,363 WARNING  * Debugger is active!
+2024-08-10 13:53:08,373 INFO  * Debugger PIN: 466-930-570
+2024-08-10 13:55:39,011 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.2.12:5000
+2024-08-10 13:55:39,011 INFO [33mPress CTRL+C to quit[0m
+2024-08-10 13:55:39,016 INFO  * Restarting with stat
+2024-08-10 13:55:39,470 WARNING  * Debugger is active!
+2024-08-10 13:55:39,479 INFO  * Debugger PIN: 466-930-570
+2024-08-10 13:56:04,663 INFO POST request data: {'humidity': 45.95, 'temperature1': 22.34, 'temperature2': 25.5, 'temperature3': 24.47, 'pressure': -304.92, 'heartrate': 34.0, 'spo2': 66.0, 'ipv': 0.0}
+2024-08-10 13:56:04,675 INFO 192.168.2.12 - - [10/Aug/2024 13:56:04] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:03:20,273 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.2.12:5000
+2024-08-10 14:03:20,273 INFO [33mPress CTRL+C to quit[0m
+2024-08-10 14:03:20,278 INFO  * Restarting with stat
+2024-08-10 14:03:20,751 WARNING  * Debugger is active!
+2024-08-10 14:03:20,760 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:05:49,903 INFO POST request data: {}
+2024-08-10 14:05:49,915 INFO 192.168.2.22 - - [10/Aug/2024 14:05:49] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:05:59,931 INFO POST request data: {'heartrate': 80.0, 'humidity': 39.59, 'ipv': 0.0, 'pressure': -295.09, 'spo2': 0.0, 'temperature1': 21.15, 'temperature2': 25.5, 'temperature3': 23.06}
+2024-08-10 14:05:59,943 INFO 192.168.2.22 - - [10/Aug/2024 14:05:59] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:06:09,939 INFO POST request data: {'heartrate': 40.0, 'humidity': 39.96, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 9.0, 'temperature1': 21.16, 'temperature2': 25.5, 'temperature3': 23.05}
+2024-08-10 14:06:09,951 INFO 192.168.2.22 - - [10/Aug/2024 14:06:09] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:06:20,006 INFO POST request data: {'heartrate': 63.0, 'humidity': 39.86, 'ipv': 0.0, 'pressure': -295.08, 'spo2': 83.0, 'temperature1': 21.17, 'temperature2': 25.5, 'temperature3': 23.08}
+2024-08-10 14:06:20,017 INFO 192.168.2.22 - - [10/Aug/2024 14:06:20] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:06:30,126 INFO POST request data: {'heartrate': 53.0, 'humidity': 39.65, 'ipv': 0.0, 'pressure': -295.12, 'spo2': 50.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 23.08}
+2024-08-10 14:06:30,137 INFO 192.168.2.22 - - [10/Aug/2024 14:06:30] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:06:40,105 INFO POST request data: {'heartrate': 53.0, 'humidity': 39.65, 'ipv': 0.0, 'pressure': -295.12, 'spo2': 50.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 23.08}
+2024-08-10 14:06:40,116 INFO 192.168.2.22 - - [10/Aug/2024 14:06:40] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:06:50,187 INFO POST request data: {'heartrate': 83.0, 'humidity': 39.55, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 54.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 23.08}
+2024-08-10 14:06:50,200 INFO 192.168.2.22 - - [10/Aug/2024 14:06:50] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:07:00,250 INFO POST request data: {'heartrate': 83.0, 'humidity': 39.55, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 54.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 23.08}
+2024-08-10 14:07:00,262 INFO 192.168.2.22 - - [10/Aug/2024 14:07:00] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:07:10,287 INFO POST request data: {'heartrate': 46.0, 'humidity': 39.86, 'ipv': 0.0, 'pressure': -295.09, 'spo2': 56.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 23.08}
+2024-08-10 14:07:10,299 INFO 192.168.2.22 - - [10/Aug/2024 14:07:10] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:07:20,425 INFO POST request data: {'heartrate': 89.0, 'humidity': 39.65, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 59.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 23.04}
+2024-08-10 14:07:20,436 INFO 192.168.2.22 - - [10/Aug/2024 14:07:20] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:07:30,399 INFO POST request data: {'heartrate': 89.0, 'humidity': 39.65, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 59.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 23.04}
+2024-08-10 14:07:30,411 INFO 192.168.2.22 - - [10/Aug/2024 14:07:30] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:07:40,461 INFO POST request data: {'heartrate': 44.0, 'humidity': 39.55, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 42.0, 'temperature1': 21.14, 'temperature2': 25.5, 'temperature3': 22.95}
+2024-08-10 14:07:40,473 INFO 192.168.2.22 - - [10/Aug/2024 14:07:40] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:07:50,512 INFO POST request data: {'heartrate': 44.0, 'humidity': 39.55, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 42.0, 'temperature1': 21.14, 'temperature2': 25.5, 'temperature3': 22.95}
+2024-08-10 14:07:50,523 INFO 192.168.2.22 - - [10/Aug/2024 14:07:50] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:08:00,575 INFO POST request data: {'heartrate': 38.0, 'humidity': 39.62, 'ipv': 0.0, 'pressure': -295.1, 'spo2': 82.0, 'temperature1': 21.08, 'temperature2': 25.5, 'temperature3': 22.88}
+2024-08-10 14:08:00,585 INFO 192.168.2.22 - - [10/Aug/2024 14:08:00] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:08:10,667 INFO POST request data: {'heartrate': 54.0, 'humidity': 39.76, 'ipv': 0.0, 'pressure': -295.12, 'spo2': 94.0, 'temperature1': 21.08, 'temperature2': 25.5, 'temperature3': 22.82}
+2024-08-10 14:08:10,677 INFO 192.168.2.22 - - [10/Aug/2024 14:08:10] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:08:20,747 INFO POST request data: {'heartrate': 54.0, 'humidity': 39.76, 'ipv': 0.0, 'pressure': -295.12, 'spo2': 94.0, 'temperature1': 21.08, 'temperature2': 25.5, 'temperature3': 22.82}
+2024-08-10 14:08:20,759 INFO 192.168.2.22 - - [10/Aug/2024 14:08:20] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:08:30,800 INFO POST request data: {'heartrate': 103.0, 'humidity': 39.52, 'ipv': 0.0, 'pressure': -295.1, 'spo2': 89.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:08:30,812 INFO 192.168.2.22 - - [10/Aug/2024 14:08:30] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:08:40,861 INFO POST request data: {'heartrate': 62.0, 'humidity': 39.71, 'ipv': 0.0, 'pressure': -295.11, 'spo2': 69.0, 'temperature1': 21.03, 'temperature2': 25.5, 'temperature3': 22.79}
+2024-08-10 14:08:40,872 INFO 192.168.2.22 - - [10/Aug/2024 14:08:40] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:08:50,951 INFO POST request data: {'heartrate': 62.0, 'humidity': 39.71, 'ipv': 0.0, 'pressure': -295.11, 'spo2': 69.0, 'temperature1': 21.03, 'temperature2': 25.5, 'temperature3': 22.79}
+2024-08-10 14:08:50,963 INFO 192.168.2.22 - - [10/Aug/2024 14:08:50] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:09:01,046 INFO POST request data: {'heartrate': 50.0, 'humidity': 39.72, 'ipv': 0.0, 'pressure': -295.05, 'spo2': 35.0, 'temperature1': 21.03, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:09:01,056 INFO 192.168.2.22 - - [10/Aug/2024 14:09:01] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:09:11,105 INFO POST request data: {'heartrate': 50.0, 'humidity': 39.72, 'ipv': 0.0, 'pressure': -295.05, 'spo2': 35.0, 'temperature1': 21.03, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:09:11,116 INFO 192.168.2.22 - - [10/Aug/2024 14:09:11] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:09:21,169 INFO POST request data: {'heartrate': 80.0, 'humidity': 39.92, 'ipv': 0.0, 'pressure': -295.1, 'spo2': 66.0, 'temperature1': 21.02, 'temperature2': 25.5, 'temperature3': 22.68}
+2024-08-10 14:09:21,181 INFO 192.168.2.22 - - [10/Aug/2024 14:09:21] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:09:31,242 INFO POST request data: {'heartrate': 0.0, 'humidity': 39.94, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 0.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.65}
+2024-08-10 14:09:31,253 INFO 192.168.2.22 - - [10/Aug/2024 14:09:31] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:09:41,282 INFO POST request data: {'heartrate': 0.0, 'humidity': 39.94, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 0.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.65}
+2024-08-10 14:09:41,294 INFO 192.168.2.22 - - [10/Aug/2024 14:09:41] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:09:51,329 INFO POST request data: {'heartrate': 68.0, 'humidity': 40.01, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 42.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.66}
+2024-08-10 14:09:51,342 INFO 192.168.2.22 - - [10/Aug/2024 14:09:51] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:10:01,388 INFO POST request data: {'heartrate': 68.0, 'humidity': 40.01, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 42.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.66}
+2024-08-10 14:10:01,400 INFO 192.168.2.22 - - [10/Aug/2024 14:10:01] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:10:11,479 INFO POST request data: {'heartrate': 117.0, 'humidity': 39.88, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 46.0, 'temperature1': 21.03, 'temperature2': 25.5, 'temperature3': 22.67}
+2024-08-10 14:10:11,490 INFO 192.168.2.22 - - [10/Aug/2024 14:10:11] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:10:19,487 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:10:19,517 INFO  * Restarting with stat
+2024-08-10 14:10:20,044 WARNING  * Debugger is active!
+2024-08-10 14:10:20,053 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:10:21,595 INFO POST request data: {'heartrate': 64.0, 'humidity': 40.0, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 83.0, 'temperature1': 21.02, 'temperature2': 25.5, 'temperature3': 22.7}
+2024-08-10 14:10:21,607 INFO 192.168.2.22 - - [10/Aug/2024 14:10:21] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:10:31,661 INFO POST request data: {'heartrate': 64.0, 'humidity': 40.0, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 83.0, 'temperature1': 21.02, 'temperature2': 25.5, 'temperature3': 22.7}
+2024-08-10 14:10:31,673 INFO 192.168.2.22 - - [10/Aug/2024 14:10:31] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:10:41,734 INFO POST request data: {'heartrate': 36.0, 'humidity': 39.85, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 0.0, 'temperature1': 21.04, 'temperature2': 25.5, 'temperature3': 22.72}
+2024-08-10 14:10:41,745 INFO 192.168.2.22 - - [10/Aug/2024 14:10:41] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:10:51,741 INFO POST request data: {'heartrate': 34.0, 'humidity': 39.74, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 0.0, 'temperature1': 21.04, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:10:51,752 INFO 192.168.2.22 - - [10/Aug/2024 14:10:51] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:11:01,802 INFO POST request data: {'heartrate': 34.0, 'humidity': 39.74, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 0.0, 'temperature1': 21.04, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:11:01,813 INFO 192.168.2.22 - - [10/Aug/2024 14:11:01] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:11:11,880 INFO POST request data: {'heartrate': 95.0, 'humidity': 39.51, 'ipv': 0.0, 'pressure': -295.11, 'spo2': 43.0, 'temperature1': 21.06, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:11:11,892 INFO 192.168.2.22 - - [10/Aug/2024 14:11:11] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:11:21,908 INFO POST request data: {'heartrate': 95.0, 'humidity': 39.51, 'ipv': 0.0, 'pressure': -295.11, 'spo2': 43.0, 'temperature1': 21.06, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:11:21,919 INFO 192.168.2.22 - - [10/Aug/2024 14:11:21] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:11:32,043 INFO POST request data: {'heartrate': 64.0, 'humidity': 39.4, 'ipv': 0.0, 'pressure': -295.15, 'spo2': 59.0, 'temperature1': 21.04, 'temperature2': 25.5, 'temperature3': 22.75}
+2024-08-10 14:11:32,054 INFO 192.168.2.22 - - [10/Aug/2024 14:11:32] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:11:42,099 INFO POST request data: {'heartrate': 42.0, 'humidity': 39.74, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 78.0, 'temperature1': 21.02, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:11:42,111 INFO 192.168.2.22 - - [10/Aug/2024 14:11:42] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:11:52,081 INFO POST request data: {'heartrate': 42.0, 'humidity': 39.74, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 78.0, 'temperature1': 21.02, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:11:52,093 INFO 192.168.2.22 - - [10/Aug/2024 14:11:52] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:12:02,201 INFO POST request data: {'heartrate': 75.0, 'humidity': 39.69, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 95.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.72}
+2024-08-10 14:12:02,213 INFO 192.168.2.22 - - [10/Aug/2024 14:12:02] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:12:12,259 INFO POST request data: {'heartrate': 75.0, 'humidity': 39.69, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 95.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.72}
+2024-08-10 14:12:12,271 INFO 192.168.2.22 - - [10/Aug/2024 14:12:12] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:12:13,523 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:13,550 INFO  * Restarting with stat
+2024-08-10 14:12:14,062 WARNING  * Debugger is active!
+2024-08-10 14:12:14,075 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:12:15,120 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:15,150 INFO  * Restarting with stat
+2024-08-10 14:12:15,634 WARNING  * Debugger is active!
+2024-08-10 14:12:15,644 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:12:22,264 INFO POST request data: {'heartrate': 58.0, 'humidity': 39.81, 'ipv': 0.0, 'pressure': -295.08, 'spo2': 93.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.68}
+2024-08-10 14:12:22,275 INFO 192.168.2.22 - - [10/Aug/2024 14:12:22] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:12:22,772 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:22,801 INFO  * Restarting with stat
+2024-08-10 14:12:23,297 WARNING  * Debugger is active!
+2024-08-10 14:12:23,305 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:12:28,401 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:28,428 INFO  * Restarting with stat
+2024-08-10 14:12:28,942 WARNING  * Debugger is active!
+2024-08-10 14:12:28,952 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:12:32,374 INFO POST request data: {'heartrate': 90.0, 'humidity': 40.04, 'ipv': 0.0, 'pressure': -295.15, 'spo2': 59.0, 'temperature1': 21.06, 'temperature2': 25.5, 'temperature3': 22.66}
+2024-08-10 14:12:32,387 INFO 192.168.2.22 - - [10/Aug/2024 14:12:32] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:12:34,050 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:34,084 INFO  * Restarting with stat
+2024-08-10 14:12:34,571 WARNING  * Debugger is active!
+2024-08-10 14:12:34,580 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:12:37,647 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:37,685 INFO  * Restarting with stat
+2024-08-10 14:12:38,183 WARNING  * Debugger is active!
+2024-08-10 14:12:38,192 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:12:42,390 INFO POST request data: {'heartrate': 90.0, 'humidity': 40.04, 'ipv': 0.0, 'pressure': -295.15, 'spo2': 59.0, 'temperature1': 21.06, 'temperature2': 25.5, 'temperature3': 22.66}
+2024-08-10 14:12:42,402 INFO 192.168.2.22 - - [10/Aug/2024 14:12:42] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:12:43,289 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:43,329 INFO  * Restarting with stat
+2024-08-10 14:12:43,826 WARNING  * Debugger is active!
+2024-08-10 14:12:43,835 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:12:47,917 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:47,943 INFO  * Restarting with stat
+2024-08-10 14:12:48,448 WARNING  * Debugger is active!
+2024-08-10 14:12:48,459 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:12:52,427 INFO POST request data: {'heartrate': 43.0, 'humidity': 40.25, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 49.0, 'temperature1': 21.06, 'temperature2': 25.5, 'temperature3': 22.68}
+2024-08-10 14:12:52,439 INFO 192.168.2.22 - - [10/Aug/2024 14:12:52] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:12:53,565 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:53,592 INFO  * Restarting with stat
+2024-08-10 14:12:54,114 WARNING  * Debugger is active!
+2024-08-10 14:12:54,124 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:12:59,222 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:12:59,247 INFO  * Restarting with stat
+2024-08-10 14:12:59,763 WARNING  * Debugger is active!
+2024-08-10 14:12:59,772 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:13:02,502 INFO POST request data: {'heartrate': 87.0, 'humidity': 40.14, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 68.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.72}
+2024-08-10 14:13:02,526 INFO 192.168.2.22 - - [10/Aug/2024 14:13:02] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:13:03,859 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:13:03,882 INFO  * Restarting with stat
+2024-08-10 14:13:04,378 WARNING  * Debugger is active!
+2024-08-10 14:13:04,387 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:13:08,474 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:13:08,502 INFO  * Restarting with stat
+2024-08-10 14:13:09,011 WARNING  * Debugger is active!
+2024-08-10 14:13:09,022 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:13:12,095 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:13:12,126 INFO  * Restarting with stat
+2024-08-10 14:13:12,621 WARNING  * Debugger is active!
+2024-08-10 14:13:12,631 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:13:12,725 INFO POST request data: {'heartrate': 87.0, 'humidity': 40.14, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 68.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.72}
+2024-08-10 14:13:12,738 INFO 192.168.2.22 - - [10/Aug/2024 14:13:12] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:13:22,700 INFO POST request data: {'heartrate': 82.0, 'humidity': 40.89, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 47.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.75}
+2024-08-10 14:13:22,713 INFO 192.168.2.22 - - [10/Aug/2024 14:13:22] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:13:32,750 INFO POST request data: {'heartrate': 82.0, 'humidity': 40.89, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 47.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.75}
+2024-08-10 14:13:32,762 INFO 192.168.2.22 - - [10/Aug/2024 14:13:32] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:13:33,942 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:13:33,974 INFO  * Restarting with stat
+2024-08-10 14:13:34,493 WARNING  * Debugger is active!
+2024-08-10 14:13:34,503 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:13:37,570 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:13:37,601 INFO  * Restarting with stat
+2024-08-10 14:13:38,096 WARNING  * Debugger is active!
+2024-08-10 14:13:38,106 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:13:42,766 INFO POST request data: {'heartrate': 76.0, 'humidity': 40.43, 'ipv': 0.0, 'pressure': -295.12, 'spo2': 51.0, 'temperature1': 21.07, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:13:42,778 INFO 192.168.2.22 - - [10/Aug/2024 14:13:42] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:13:43,206 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:13:43,237 INFO  * Restarting with stat
+2024-08-10 14:13:43,724 WARNING  * Debugger is active!
+2024-08-10 14:13:43,733 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:13:46,799 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:13:46,837 INFO  * Restarting with stat
+2024-08-10 14:13:47,348 WARNING  * Debugger is active!
+2024-08-10 14:13:47,359 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:13:52,842 INFO POST request data: {'heartrate': 72.0, 'humidity': 41.1, 'ipv': 0.0, 'pressure': -295.15, 'spo2': 57.0, 'temperature1': 21.07, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:13:52,855 INFO 192.168.2.22 - - [10/Aug/2024 14:13:52] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:14:02,894 INFO POST request data: {'heartrate': 72.0, 'humidity': 41.1, 'ipv': 0.0, 'pressure': -295.15, 'spo2': 57.0, 'temperature1': 21.07, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:14:02,908 INFO 192.168.2.22 - - [10/Aug/2024 14:14:02] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:14:12,960 INFO POST request data: {'heartrate': 46.0, 'humidity': 41.41, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 56.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:14:12,972 INFO 192.168.2.22 - - [10/Aug/2024 14:14:12] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:14:23,012 INFO POST request data: {'heartrate': 46.0, 'humidity': 41.41, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 56.0, 'temperature1': 21.05, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:14:23,026 INFO 192.168.2.22 - - [10/Aug/2024 14:14:23] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:14:33,093 INFO POST request data: {'heartrate': 47.0, 'humidity': 41.69, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 0.0, 'temperature1': 21.07, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:14:33,106 INFO 192.168.2.22 - - [10/Aug/2024 14:14:33] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:14:43,167 INFO POST request data: {'heartrate': 60.0, 'humidity': 41.46, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 68.0, 'temperature1': 21.06, 'temperature2': 25.5, 'temperature3': 22.71}
+2024-08-10 14:14:43,180 INFO 192.168.2.22 - - [10/Aug/2024 14:14:43] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:14:51,224 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_query_loop.py', reloading
+2024-08-10 14:14:51,252 INFO  * Restarting with stat
+2024-08-10 14:14:51,718 WARNING  * Debugger is active!
+2024-08-10 14:14:51,726 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:14:53,281 INFO POST request data: {'heartrate': 60.0, 'humidity': 41.46, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 68.0, 'temperature1': 21.06, 'temperature2': 25.5, 'temperature3': 22.71}
+2024-08-10 14:14:53,292 INFO 192.168.2.22 - - [10/Aug/2024 14:14:53] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:15:03,362 INFO POST request data: {'heartrate': 31.0, 'humidity': 41.9, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 60.0, 'temperature1': 21.09, 'temperature2': 25.5, 'temperature3': 22.71}
+2024-08-10 14:15:03,373 INFO 192.168.2.22 - - [10/Aug/2024 14:15:03] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:15:13,368 INFO POST request data: {'heartrate': 47.0, 'humidity': 42.28, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 64.0, 'temperature1': 21.08, 'temperature2': 25.5, 'temperature3': 22.68}
+2024-08-10 14:15:13,379 INFO 192.168.2.22 - - [10/Aug/2024 14:15:13] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:15:23,499 INFO POST request data: {'heartrate': 47.0, 'humidity': 42.28, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 64.0, 'temperature1': 21.08, 'temperature2': 25.5, 'temperature3': 22.68}
+2024-08-10 14:15:23,511 INFO 192.168.2.22 - - [10/Aug/2024 14:15:23] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:15:33,485 INFO POST request data: {'heartrate': 74.0, 'humidity': 42.7, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 33.0, 'temperature1': 21.09, 'temperature2': 25.5, 'temperature3': 22.67}
+2024-08-10 14:15:33,495 INFO 192.168.2.22 - - [10/Aug/2024 14:15:33] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:15:43,631 INFO POST request data: {'heartrate': 74.0, 'humidity': 42.7, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 33.0, 'temperature1': 21.09, 'temperature2': 25.5, 'temperature3': 22.67}
+2024-08-10 14:15:43,642 INFO 192.168.2.22 - - [10/Aug/2024 14:15:43] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:15:53,629 INFO POST request data: {'heartrate': 64.0, 'humidity': 42.7, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 67.0, 'temperature1': 21.11, 'temperature2': 25.5, 'temperature3': 22.66}
+2024-08-10 14:15:53,641 INFO 192.168.2.22 - - [10/Aug/2024 14:15:53] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:16:03,681 INFO POST request data: {'heartrate': 60.0, 'humidity': 42.73, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 67.0, 'temperature1': 21.11, 'temperature2': 25.5, 'temperature3': 22.64}
+2024-08-10 14:16:03,692 INFO 192.168.2.22 - - [10/Aug/2024 14:16:03] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:16:13,737 INFO POST request data: {'heartrate': 60.0, 'humidity': 42.73, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 67.0, 'temperature1': 21.11, 'temperature2': 25.5, 'temperature3': 22.64}
+2024-08-10 14:16:13,748 INFO 192.168.2.22 - - [10/Aug/2024 14:16:13] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:16:23,773 INFO POST request data: {'heartrate': 43.0, 'humidity': 42.78, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 65.0, 'temperature1': 21.1, 'temperature2': 25.5, 'temperature3': 22.65}
+2024-08-10 14:16:23,784 INFO 192.168.2.22 - - [10/Aug/2024 14:16:23] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:16:33,864 INFO POST request data: {'heartrate': 43.0, 'humidity': 42.78, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 65.0, 'temperature1': 21.1, 'temperature2': 25.5, 'temperature3': 22.65}
+2024-08-10 14:16:33,875 INFO 192.168.2.22 - - [10/Aug/2024 14:16:33] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:16:43,924 INFO POST request data: {'heartrate': 49.0, 'humidity': 43.42, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 28.0, 'temperature1': 21.13, 'temperature2': 25.5, 'temperature3': 22.63}
+2024-08-10 14:16:43,936 INFO 192.168.2.22 - - [10/Aug/2024 14:16:43] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:16:47,177 INFO  * Detected change in 'C:\\Users\\Yissil\\pfe-backend\\SQL_testConnectivity.py', reloading
+2024-08-10 14:16:47,205 INFO  * Restarting with stat
+2024-08-10 14:16:47,680 WARNING  * Debugger is active!
+2024-08-10 14:16:47,690 INFO  * Debugger PIN: 466-930-570
+2024-08-10 14:16:54,005 INFO POST request data: {'heartrate': 25.0, 'humidity': 43.05, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 0.0, 'temperature1': 21.13, 'temperature2': 25.5, 'temperature3': 22.6}
+2024-08-10 14:16:54,015 INFO 192.168.2.22 - - [10/Aug/2024 14:16:54] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:17:04,061 INFO POST request data: {'heartrate': 25.0, 'humidity': 43.05, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 0.0, 'temperature1': 21.13, 'temperature2': 25.5, 'temperature3': 22.6}
+2024-08-10 14:17:04,073 INFO 192.168.2.22 - - [10/Aug/2024 14:17:04] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:17:14,200 INFO POST request data: {'heartrate': 72.0, 'humidity': 43.34, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 31.0, 'temperature1': 21.13, 'temperature2': 25.5, 'temperature3': 22.63}
+2024-08-10 14:17:14,212 INFO 192.168.2.22 - - [10/Aug/2024 14:17:14] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:17:24,241 INFO POST request data: {'heartrate': 48.0, 'humidity': 43.32, 'ipv': 0.0, 'pressure': -295.11, 'spo2': 39.0, 'temperature1': 21.13, 'temperature2': 25.5, 'temperature3': 22.68}
+2024-08-10 14:17:24,252 INFO 192.168.2.22 - - [10/Aug/2024 14:17:24] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:17:34,237 INFO POST request data: {'heartrate': 48.0, 'humidity': 43.32, 'ipv': 0.0, 'pressure': -295.11, 'spo2': 39.0, 'temperature1': 21.13, 'temperature2': 25.5, 'temperature3': 22.68}
+2024-08-10 14:17:34,248 INFO 192.168.2.22 - - [10/Aug/2024 14:17:34] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:17:44,302 INFO POST request data: {'heartrate': 34.0, 'humidity': 43.87, 'ipv': 0.0, 'pressure': -295.11, 'spo2': 98.0, 'temperature1': 21.14, 'temperature2': 25.5, 'temperature3': 22.67}
+2024-08-10 14:17:44,314 INFO 192.168.2.22 - - [10/Aug/2024 14:17:44] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:17:54,374 INFO POST request data: {'heartrate': 34.0, 'humidity': 43.87, 'ipv': 0.0, 'pressure': -295.11, 'spo2': 98.0, 'temperature1': 21.14, 'temperature2': 25.5, 'temperature3': 22.67}
+2024-08-10 14:17:54,386 INFO 192.168.2.22 - - [10/Aug/2024 14:17:54] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:18:04,435 INFO POST request data: {'heartrate': 83.0, 'humidity': 43.95, 'ipv': 0.0, 'pressure': -295.09, 'spo2': 16.0, 'temperature1': 21.15, 'temperature2': 25.5, 'temperature3': 22.64}
+2024-08-10 14:18:04,446 INFO 192.168.2.22 - - [10/Aug/2024 14:18:04] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:18:14,478 INFO POST request data: {'heartrate': 77.0, 'humidity': 44.0, 'ipv': 0.0, 'pressure': -295.15, 'spo2': 83.0, 'temperature1': 21.16, 'temperature2': 25.5, 'temperature3': 22.64}
+2024-08-10 14:18:14,490 INFO 192.168.2.22 - - [10/Aug/2024 14:18:14] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:18:24,565 INFO POST request data: {'heartrate': 77.0, 'humidity': 44.0, 'ipv': 0.0, 'pressure': -295.15, 'spo2': 83.0, 'temperature1': 21.16, 'temperature2': 25.5, 'temperature3': 22.64}
+2024-08-10 14:18:24,576 INFO 192.168.2.22 - - [10/Aug/2024 14:18:24] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:18:34,629 INFO POST request data: {'heartrate': 65.0, 'humidity': 44.11, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 8.0, 'temperature1': 21.16, 'temperature2': 25.5, 'temperature3': 22.65}
+2024-08-10 14:18:34,640 INFO 192.168.2.22 - - [10/Aug/2024 14:18:34] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:18:44,679 INFO POST request data: {'heartrate': 65.0, 'humidity': 44.11, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 8.0, 'temperature1': 21.16, 'temperature2': 25.5, 'temperature3': 22.65}
+2024-08-10 14:18:44,690 INFO 192.168.2.22 - - [10/Aug/2024 14:18:44] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:18:54,819 INFO POST request data: {'heartrate': 114.0, 'humidity': 44.26, 'ipv': 0.0, 'pressure': -295.15, 'spo2': 25.0, 'temperature1': 21.15, 'temperature2': 25.5, 'temperature3': 22.65}
+2024-08-10 14:18:54,830 INFO 192.168.2.22 - - [10/Aug/2024 14:18:54] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:19:04,825 INFO POST request data: {'heartrate': 28.0, 'humidity': 44.12, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 44.0, 'temperature1': 21.12, 'temperature2': 25.5, 'temperature3': 22.66}
+2024-08-10 14:19:04,836 INFO 192.168.2.22 - - [10/Aug/2024 14:19:04] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:19:14,883 INFO POST request data: {'heartrate': 28.0, 'humidity': 44.12, 'ipv': 0.0, 'pressure': -295.13, 'spo2': 44.0, 'temperature1': 21.12, 'temperature2': 25.5, 'temperature3': 22.66}
+2024-08-10 14:19:14,895 INFO 192.168.2.22 - - [10/Aug/2024 14:19:14] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:19:24,956 INFO POST request data: {'heartrate': 48.0, 'humidity': 44.45, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 0.0, 'temperature1': 21.14, 'temperature2': 25.5, 'temperature3': 22.68}
+2024-08-10 14:19:24,967 INFO 192.168.2.22 - - [10/Aug/2024 14:19:24] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:19:35,023 INFO POST request data: {'heartrate': 56.0, 'humidity': 44.62, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 41.0, 'temperature1': 21.14, 'temperature2': 25.5, 'temperature3': 22.73}
+2024-08-10 14:19:35,034 INFO 192.168.2.22 - - [10/Aug/2024 14:19:35] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:19:45,090 INFO POST request data: {'heartrate': 56.0, 'humidity': 44.62, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 41.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.73}
+2024-08-10 14:19:45,102 INFO 192.168.2.22 - - [10/Aug/2024 14:19:45] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:19:55,145 INFO POST request data: {'heartrate': 78.0, 'humidity': 44.64, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 44.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.74}
+2024-08-10 14:19:55,156 INFO 192.168.2.22 - - [10/Aug/2024 14:19:55] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:20:05,270 INFO POST request data: {'heartrate': 78.0, 'humidity': 44.64, 'ipv': 0.0, 'pressure': -295.14, 'spo2': 44.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.74}
+2024-08-10 14:20:05,280 INFO 192.168.2.22 - - [10/Aug/2024 14:20:05] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:20:15,255 INFO POST request data: {'heartrate': 116.0, 'humidity': 44.74, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 70.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.75}
+2024-08-10 14:20:15,266 INFO 192.168.2.22 - - [10/Aug/2024 14:20:15] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:20:25,316 INFO POST request data: {'heartrate': 62.0, 'humidity': 44.57, 'ipv': 0.0, 'pressure': -295.1, 'spo2': 0.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 22.75}
+2024-08-10 14:20:25,327 INFO 192.168.2.22 - - [10/Aug/2024 14:20:25] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:20:35,366 INFO POST request data: {'heartrate': 62.0, 'humidity': 44.57, 'ipv': 0.0, 'pressure': -295.1, 'spo2': 0.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 22.75}
+2024-08-10 14:20:35,377 INFO 192.168.2.22 - - [10/Aug/2024 14:20:35] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:20:45,451 INFO POST request data: {'heartrate': 69.0, 'humidity': 45.03, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 60.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:20:45,462 INFO 192.168.2.22 - - [10/Aug/2024 14:20:45] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:20:55,505 INFO POST request data: {'heartrate': 69.0, 'humidity': 45.03, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 60.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:20:55,515 INFO 192.168.2.22 - - [10/Aug/2024 14:20:55] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:21:05,601 INFO POST request data: {'heartrate': 87.0, 'humidity': 44.88, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 86.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 14:21:05,611 INFO 192.168.2.22 - - [10/Aug/2024 14:21:05] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:21:15,608 INFO POST request data: {'heartrate': 49.0, 'humidity': 44.85, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 43.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.79}
+2024-08-10 14:21:15,620 INFO 192.168.2.22 - - [10/Aug/2024 14:21:15] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:21:25,691 INFO POST request data: {'heartrate': 49.0, 'humidity': 44.85, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 43.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.79}
+2024-08-10 14:21:25,702 INFO 192.168.2.22 - - [10/Aug/2024 14:21:25] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:21:35,769 INFO POST request data: {'heartrate': 74.0, 'humidity': 44.93, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 74.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.81}
+2024-08-10 14:21:35,780 INFO 192.168.2.22 - - [10/Aug/2024 14:21:35] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:21:45,820 INFO POST request data: {'heartrate': 74.0, 'humidity': 44.93, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 74.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.81}
+2024-08-10 14:21:45,831 INFO 192.168.2.22 - - [10/Aug/2024 14:21:45] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:21:55,887 INFO POST request data: {'heartrate': 53.0, 'humidity': 44.63, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 60.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.82}
+2024-08-10 14:21:55,898 INFO 192.168.2.22 - - [10/Aug/2024 14:21:55] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:22:05,945 INFO POST request data: {'heartrate': 91.0, 'humidity': 44.72, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 72.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.83}
+2024-08-10 14:22:05,955 INFO 192.168.2.22 - - [10/Aug/2024 14:22:05] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:22:15,969 INFO POST request data: {'heartrate': 91.0, 'humidity': 44.72, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 72.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.83}
+2024-08-10 14:22:15,980 INFO 192.168.2.22 - - [10/Aug/2024 14:22:15] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:22:26,009 INFO POST request data: {'heartrate': 52.0, 'humidity': 44.62, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 70.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 22.83}
+2024-08-10 14:22:26,020 INFO 192.168.2.22 - - [10/Aug/2024 14:22:26] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:22:36,062 INFO POST request data: {'heartrate': 69.0, 'humidity': 44.43, 'ipv': 0.0, 'pressure': -295.22, 'spo2': 46.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.82}
+2024-08-10 14:22:36,074 INFO 192.168.2.22 - - [10/Aug/2024 14:22:36] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:22:46,121 INFO POST request data: {'heartrate': 69.0, 'humidity': 44.43, 'ipv': 0.0, 'pressure': -295.22, 'spo2': 46.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.82}
+2024-08-10 14:22:46,132 INFO 192.168.2.22 - - [10/Aug/2024 14:22:46] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:22:56,199 INFO POST request data: {'heartrate': 71.0, 'humidity': 44.44, 'ipv': 0.0, 'pressure': -295.21, 'spo2': 0.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.83}
+2024-08-10 14:22:56,210 INFO 192.168.2.22 - - [10/Aug/2024 14:22:56] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:23:06,258 INFO POST request data: {'heartrate': 71.0, 'humidity': 44.44, 'ipv': 0.0, 'pressure': -295.21, 'spo2': 0.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.83}
+2024-08-10 14:23:06,269 INFO 192.168.2.22 - - [10/Aug/2024 14:23:06] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:23:16,357 INFO POST request data: {'heartrate': 79.0, 'humidity': 44.43, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 44.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 14:23:16,367 INFO 192.168.2.22 - - [10/Aug/2024 14:23:16] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:23:26,438 INFO POST request data: {'heartrate': 61.0, 'humidity': 44.37, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 42.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.88}
+2024-08-10 14:23:26,449 INFO 192.168.2.22 - - [10/Aug/2024 14:23:26] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:23:36,466 INFO POST request data: {'heartrate': 61.0, 'humidity': 44.37, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 42.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.88}
+2024-08-10 14:23:36,477 INFO 192.168.2.22 - - [10/Aug/2024 14:23:36] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:23:46,533 INFO POST request data: {'heartrate': 54.0, 'humidity': 44.15, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 43.0, 'temperature1': 21.28, 'temperature2': 25.5, 'temperature3': 22.9}
+2024-08-10 14:23:46,545 INFO 192.168.2.22 - - [10/Aug/2024 14:23:46] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:23:56,509 INFO POST request data: {'heartrate': 54.0, 'humidity': 44.15, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 43.0, 'temperature1': 21.28, 'temperature2': 25.5, 'temperature3': 22.9}
+2024-08-10 14:23:56,521 INFO 192.168.2.22 - - [10/Aug/2024 14:23:56] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:24:06,659 INFO POST request data: {'heartrate': 63.0, 'humidity': 43.99, 'ipv': 0.0, 'pressure': -295.22, 'spo2': 78.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.92}
+2024-08-10 14:24:06,670 INFO 192.168.2.22 - - [10/Aug/2024 14:24:06] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:24:16,697 INFO POST request data: {'heartrate': 41.0, 'humidity': 43.92, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 52.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.93}
+2024-08-10 14:24:16,707 INFO 192.168.2.22 - - [10/Aug/2024 14:24:16] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:24:26,769 INFO POST request data: {'heartrate': 41.0, 'humidity': 43.92, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 52.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.93}
+2024-08-10 14:24:26,781 INFO 192.168.2.22 - - [10/Aug/2024 14:24:26] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:24:36,770 INFO POST request data: {'heartrate': 68.0, 'humidity': 43.84, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 76.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.93}
+2024-08-10 14:24:36,781 INFO 192.168.2.22 - - [10/Aug/2024 14:24:36] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:24:46,810 INFO POST request data: {'heartrate': 44.0, 'humidity': 43.8, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 35.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 22.96}
+2024-08-10 14:24:46,822 INFO 192.168.2.22 - - [10/Aug/2024 14:24:46] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:24:56,887 INFO POST request data: {'heartrate': 44.0, 'humidity': 43.8, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 35.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 22.96}
+2024-08-10 14:24:56,897 INFO 192.168.2.22 - - [10/Aug/2024 14:24:56] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:25:06,913 INFO POST request data: {'heartrate': 53.0, 'humidity': 43.55, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 50.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.98}
+2024-08-10 14:25:06,925 INFO 192.168.2.22 - - [10/Aug/2024 14:25:06] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:25:17,017 INFO POST request data: {'heartrate': 53.0, 'humidity': 43.55, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 50.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.98}
+2024-08-10 14:25:17,028 INFO 192.168.2.22 - - [10/Aug/2024 14:25:17] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:25:27,020 INFO POST request data: {'heartrate': 56.0, 'humidity': 43.35, 'ipv': 0.0, 'pressure': -295.21, 'spo2': 77.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.99}
+2024-08-10 14:25:27,031 INFO 192.168.2.22 - - [10/Aug/2024 14:25:27] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:25:37,032 INFO POST request data: {'heartrate': 96.0, 'humidity': 43.1, 'ipv': 0.0, 'pressure': -295.25, 'spo2': 58.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.99}
+2024-08-10 14:25:37,043 INFO 192.168.2.22 - - [10/Aug/2024 14:25:37] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:25:47,089 INFO POST request data: {'heartrate': 96.0, 'humidity': 43.1, 'ipv': 0.0, 'pressure': -295.25, 'spo2': 58.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.99}
+2024-08-10 14:25:47,101 INFO 192.168.2.22 - - [10/Aug/2024 14:25:47] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:25:57,141 INFO POST request data: {'heartrate': 50.0, 'humidity': 43.18, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 56.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 23.0}
+2024-08-10 14:25:57,152 INFO 192.168.2.22 - - [10/Aug/2024 14:25:57] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:26:07,243 INFO POST request data: {'heartrate': 50.0, 'humidity': 43.18, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 56.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 23.0}
+2024-08-10 14:26:07,254 INFO 192.168.2.22 - - [10/Aug/2024 14:26:07] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:26:17,309 INFO POST request data: {'heartrate': 59.0, 'humidity': 43.01, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 64.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:26:17,320 INFO 192.168.2.22 - - [10/Aug/2024 14:26:17] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:26:27,365 INFO POST request data: {'heartrate': 32.0, 'humidity': 42.69, 'ipv': 0.0, 'pressure': -295.29, 'spo2': 74.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:26:27,376 INFO 192.168.2.22 - - [10/Aug/2024 14:26:27] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:26:37,351 INFO POST request data: {'heartrate': 32.0, 'humidity': 42.69, 'ipv': 0.0, 'pressure': -295.29, 'spo2': 74.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:26:37,362 INFO 192.168.2.22 - - [10/Aug/2024 14:26:37] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:26:47,442 INFO POST request data: {'heartrate': 76.0, 'humidity': 42.61, 'ipv': 0.0, 'pressure': -295.17, 'spo2': 83.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:26:47,452 INFO 192.168.2.22 - - [10/Aug/2024 14:26:47] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:26:57,451 INFO POST request data: {'heartrate': 61.0, 'humidity': 42.35, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 76.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.0}
+2024-08-10 14:26:57,463 INFO 192.168.2.22 - - [10/Aug/2024 14:26:57] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:27:07,469 INFO POST request data: {'heartrate': 61.0, 'humidity': 42.35, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 76.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.0}
+2024-08-10 14:27:07,480 INFO 192.168.2.22 - - [10/Aug/2024 14:27:07] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:27:17,524 INFO POST request data: {'heartrate': 76.0, 'humidity': 42.45, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 26.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:27:17,534 INFO 192.168.2.22 - - [10/Aug/2024 14:27:17] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:27:27,552 INFO POST request data: {'heartrate': 76.0, 'humidity': 42.45, 'ipv': 0.0, 'pressure': -295.18, 'spo2': 26.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:27:27,563 INFO 192.168.2.22 - - [10/Aug/2024 14:27:27] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:27:37,605 INFO POST request data: {'heartrate': 76.0, 'humidity': 42.32, 'ipv': 0.0, 'pressure': -295.22, 'spo2': 86.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.0}
+2024-08-10 14:27:37,616 INFO 192.168.2.22 - - [10/Aug/2024 14:27:37] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:27:47,649 INFO POST request data: {'heartrate': 56.0, 'humidity': 42.1, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 65.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:27:47,661 INFO 192.168.2.22 - - [10/Aug/2024 14:27:47] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:27:57,686 INFO POST request data: {'heartrate': 56.0, 'humidity': 42.1, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 65.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:27:57,698 INFO 192.168.2.22 - - [10/Aug/2024 14:27:57] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:28:07,725 INFO POST request data: {'heartrate': 86.0, 'humidity': 42.11, 'ipv': 0.0, 'pressure': -295.23, 'spo2': 45.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:28:07,736 INFO 192.168.2.22 - - [10/Aug/2024 14:28:07] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:28:17,788 INFO POST request data: {'heartrate': 86.0, 'humidity': 42.11, 'ipv': 0.0, 'pressure': -295.23, 'spo2': 45.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:28:17,800 INFO 192.168.2.22 - - [10/Aug/2024 14:28:17] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:28:27,812 INFO POST request data: {'heartrate': 45.0, 'humidity': 41.87, 'ipv': 0.0, 'pressure': -295.15, 'spo2': 58.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 23.03}
+2024-08-10 14:28:27,823 INFO 192.168.2.22 - - [10/Aug/2024 14:28:27] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:28:37,880 INFO POST request data: {'heartrate': 66.0, 'humidity': 42.01, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 48.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:28:37,892 INFO 192.168.2.22 - - [10/Aug/2024 14:28:37] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:28:47,987 INFO POST request data: {'heartrate': 66.0, 'humidity': 42.01, 'ipv': 0.0, 'pressure': -295.2, 'spo2': 48.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:28:48,000 INFO 192.168.2.22 - - [10/Aug/2024 14:28:48] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:28:58,005 INFO POST request data: {'heartrate': 68.0, 'humidity': 41.93, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 39.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:28:58,017 INFO 192.168.2.22 - - [10/Aug/2024 14:28:58] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:29:08,102 INFO POST request data: {'heartrate': 45.0, 'humidity': 41.67, 'ipv': 0.0, 'pressure': -295.23, 'spo2': 63.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:29:08,113 INFO 192.168.2.22 - - [10/Aug/2024 14:29:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:29:18,122 INFO POST request data: {'heartrate': 45.0, 'humidity': 41.67, 'ipv': 0.0, 'pressure': -295.23, 'spo2': 63.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 14:29:18,133 INFO 192.168.2.22 - - [10/Aug/2024 14:29:18] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:29:28,157 INFO POST request data: {'heartrate': 62.0, 'humidity': 41.61, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 44.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 22.98}
+2024-08-10 14:29:28,168 INFO 192.168.2.22 - - [10/Aug/2024 14:29:28] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:29:38,266 INFO POST request data: {'heartrate': 62.0, 'humidity': 41.61, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 44.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 22.98}
+2024-08-10 14:29:38,277 INFO 192.168.2.22 - - [10/Aug/2024 14:29:38] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:29:48,306 INFO POST request data: {'heartrate': 76.0, 'humidity': 41.54, 'ipv': 0.0, 'pressure': -295.22, 'spo2': 26.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 22.96}
+2024-08-10 14:29:48,318 INFO 192.168.2.22 - - [10/Aug/2024 14:29:48] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:29:58,311 INFO POST request data: {'heartrate': 58.0, 'humidity': 41.41, 'ipv': 0.0, 'pressure': -295.22, 'spo2': 0.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 22.93}
+2024-08-10 14:29:58,321 INFO 192.168.2.22 - - [10/Aug/2024 14:29:58] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:30:08,359 INFO POST request data: {'heartrate': 58.0, 'humidity': 41.41, 'ipv': 0.0, 'pressure': -295.22, 'spo2': 0.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 22.93}
+2024-08-10 14:30:08,370 INFO 192.168.2.22 - - [10/Aug/2024 14:30:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:30:18,458 INFO POST request data: {'heartrate': 55.0, 'humidity': 41.38, 'ipv': 0.0, 'pressure': -295.21, 'spo2': 93.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 22.92}
+2024-08-10 14:30:18,468 INFO 192.168.2.22 - - [10/Aug/2024 14:30:18] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:30:28,523 INFO POST request data: {'heartrate': 40.0, 'humidity': 41.42, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 51.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 22.89}
+2024-08-10 14:30:28,533 INFO 192.168.2.22 - - [10/Aug/2024 14:30:28] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:30:38,572 INFO POST request data: {'heartrate': 40.0, 'humidity': 41.42, 'ipv': 0.0, 'pressure': -295.16, 'spo2': 51.0, 'temperature1': 21.17, 'temperature2': 25.5, 'temperature3': 22.89}
+2024-08-10 14:30:38,583 INFO 192.168.2.22 - - [10/Aug/2024 14:30:38] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:30:48,550 INFO POST request data: {'heartrate': 55.0, 'humidity': 41.37, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 56.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 14:30:48,561 INFO 192.168.2.22 - - [10/Aug/2024 14:30:48] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:30:58,619 INFO POST request data: {'heartrate': 55.0, 'humidity': 41.37, 'ipv': 0.0, 'pressure': -295.19, 'spo2': 56.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 14:30:58,630 INFO 192.168.2.22 - - [10/Aug/2024 14:30:58] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:31:08,670 INFO POST request data: {'heartrate': 73.0, 'humidity': 41.41, 'ipv': 0.0, 'pressure': -295.21, 'spo2': 77.0, 'temperature1': 21.18, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 14:31:08,681 INFO 192.168.2.22 - - [10/Aug/2024 14:31:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:31:18,718 INFO POST request data: {'heartrate': 48.0, 'humidity': 41.65, 'ipv': 0.0, 'pressure': -295.21, 'spo2': 80.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 14:31:18,729 INFO 192.168.2.22 - - [10/Aug/2024 14:31:18] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:31:28,758 INFO POST request data: {'heartrate': 48.0, 'humidity': 41.65, 'ipv': 0.0, 'pressure': -295.21, 'spo2': 80.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 14:31:28,769 INFO 192.168.2.22 - - [10/Aug/2024 14:31:28] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:31:38,801 INFO POST request data: {'heartrate': 68.0, 'humidity': 41.53, 'ipv': 0.0, 'pressure': -295.21, 'spo2': 77.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 22.87}
+2024-08-10 14:31:38,812 INFO 192.168.2.22 - - [10/Aug/2024 14:31:38] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:31:48,918 INFO POST request data: {'heartrate': 68.0, 'humidity': 41.53, 'ipv': 0.0, 'pressure': -295.21, 'spo2': 77.0, 'temperature1': 21.2, 'temperature2': 25.5, 'temperature3': 22.87}
+2024-08-10 14:31:48,929 INFO 192.168.2.22 - - [10/Aug/2024 14:31:48] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:33:55,031 INFO POST request data: {}
+2024-08-10 14:33:55,042 INFO 192.168.2.22 - - [10/Aug/2024 14:33:55] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:34:05,089 INFO POST request data: {}
+2024-08-10 14:34:05,099 INFO 192.168.2.22 - - [10/Aug/2024 14:34:05] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:34:15,184 INFO POST request data: {}
+2024-08-10 14:34:15,197 INFO 192.168.2.22 - - [10/Aug/2024 14:34:15] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:34:25,230 INFO POST request data: {}
+2024-08-10 14:34:25,242 INFO 192.168.2.22 - - [10/Aug/2024 14:34:25] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:34:35,291 INFO POST request data: {}
+2024-08-10 14:34:35,302 INFO 192.168.2.22 - - [10/Aug/2024 14:34:35] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:35:07,917 INFO POST request data: {}
+2024-08-10 14:35:07,928 INFO 192.168.2.22 - - [10/Aug/2024 14:35:07] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:35:17,951 INFO POST request data: {}
+2024-08-10 14:35:17,963 INFO 192.168.2.22 - - [10/Aug/2024 14:35:17] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:35:27,977 INFO POST request data: {}
+2024-08-10 14:35:27,990 INFO 192.168.2.22 - - [10/Aug/2024 14:35:27] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:36:58,175 INFO POST request data: {}
+2024-08-10 14:36:58,186 INFO 192.168.2.22 - - [10/Aug/2024 14:36:58] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:37:08,213 INFO POST request data: {}
+2024-08-10 14:37:08,225 INFO 192.168.2.22 - - [10/Aug/2024 14:37:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:37:18,313 INFO POST request data: {}
+2024-08-10 14:37:18,324 INFO 192.168.2.22 - - [10/Aug/2024 14:37:18] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:38:26,545 INFO POST request data: {}
+2024-08-10 14:38:26,556 INFO 192.168.2.22 - - [10/Aug/2024 14:38:26] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:38:46,507 INFO POST request data: {}
+2024-08-10 14:38:46,520 INFO 192.168.2.22 - - [10/Aug/2024 14:38:46] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:39:06,479 INFO POST request data: {}
+2024-08-10 14:39:06,490 INFO 192.168.2.22 - - [10/Aug/2024 14:39:06] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:39:14,810 INFO POST request data: {}
+2024-08-10 14:39:14,822 INFO 192.168.2.22 - - [10/Aug/2024 14:39:14] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:45:12,524 INFO POST request data: {}
+2024-08-10 14:45:12,535 INFO 192.168.2.22 - - [10/Aug/2024 14:45:12] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:45:32,557 INFO POST request data: {}
+2024-08-10 14:45:32,568 INFO 192.168.2.22 - - [10/Aug/2024 14:45:32] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:45:52,616 INFO POST request data: {}
+2024-08-10 14:45:52,627 INFO 192.168.2.22 - - [10/Aug/2024 14:45:52] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:46:12,718 INFO POST request data: {}
+2024-08-10 14:46:12,727 INFO 192.168.2.22 - - [10/Aug/2024 14:46:12] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:46:32,731 INFO POST request data: {}
+2024-08-10 14:46:32,742 INFO 192.168.2.22 - - [10/Aug/2024 14:46:32] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:46:53,132 INFO POST request data: {}
+2024-08-10 14:46:53,143 INFO 192.168.2.22 - - [10/Aug/2024 14:46:53] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:47:12,913 INFO POST request data: {}
+2024-08-10 14:47:12,923 INFO 192.168.2.22 - - [10/Aug/2024 14:47:12] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:47:32,876 INFO POST request data: {}
+2024-08-10 14:47:32,887 INFO 192.168.2.22 - - [10/Aug/2024 14:47:32] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:47:52,967 INFO POST request data: {}
+2024-08-10 14:47:52,977 INFO 192.168.2.22 - - [10/Aug/2024 14:47:52] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:48:12,978 INFO POST request data: {}
+2024-08-10 14:48:12,990 INFO 192.168.2.22 - - [10/Aug/2024 14:48:12] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:48:33,027 INFO POST request data: {}
+2024-08-10 14:48:33,037 INFO 192.168.2.22 - - [10/Aug/2024 14:48:33] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:48:53,093 INFO POST request data: {}
+2024-08-10 14:48:53,105 INFO 192.168.2.22 - - [10/Aug/2024 14:48:53] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:49:13,095 INFO POST request data: {}
+2024-08-10 14:49:13,107 INFO 192.168.2.22 - - [10/Aug/2024 14:49:13] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:49:33,282 INFO POST request data: {}
+2024-08-10 14:49:33,294 INFO 192.168.2.22 - - [10/Aug/2024 14:49:33] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:49:53,288 INFO POST request data: {}
+2024-08-10 14:49:53,300 INFO 192.168.2.22 - - [10/Aug/2024 14:49:53] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:50:13,282 INFO POST request data: {}
+2024-08-10 14:50:13,292 INFO 192.168.2.22 - - [10/Aug/2024 14:50:13] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:50:33,386 INFO POST request data: {}
+2024-08-10 14:50:33,396 INFO 192.168.2.22 - - [10/Aug/2024 14:50:33] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:50:53,386 INFO POST request data: {}
+2024-08-10 14:50:53,398 INFO 192.168.2.22 - - [10/Aug/2024 14:50:53] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:07,950 INFO POST request data: {}
+2024-08-10 14:51:07,981 INFO 192.168.2.22 - - [10/Aug/2024 14:51:07] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:08,001 INFO 192.168.2.22 - - [10/Aug/2024 14:51:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:08,007 INFO 192.168.2.22 - - [10/Aug/2024 14:51:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:08,024 INFO POST request data: {}
+2024-08-10 14:51:08,042 INFO 192.168.2.22 - - [10/Aug/2024 14:51:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:08,054 INFO 192.168.2.22 - - [10/Aug/2024 14:51:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:08,057 INFO 192.168.2.22 - - [10/Aug/2024 14:51:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:08,076 INFO 192.168.2.22 - - [10/Aug/2024 14:51:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:08,088 INFO 192.168.2.22 - - [10/Aug/2024 14:51:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:08,121 INFO POST request data: {}
+2024-08-10 14:51:08,132 INFO 192.168.2.22 - - [10/Aug/2024 14:51:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:28,022 INFO POST request data: {'heartrate': 44.0, 'humidity': 43.89, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 17.0, 'temperature1': 21.35, 'temperature2': 25.5, 'temperature3': 23.09}
+2024-08-10 14:51:28,023 INFO 192.168.2.22 - - [10/Aug/2024 14:51:28] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:28,028 INFO 192.168.2.22 - - [10/Aug/2024 14:51:28] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:28,033 INFO 192.168.2.22 - - [10/Aug/2024 14:51:28] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:28,045 INFO POST request data: {'heartrate': 44.0, 'humidity': 43.89, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 17.0, 'temperature1': 21.35, 'temperature2': 25.5, 'temperature3': 23.09}
+2024-08-10 14:51:28,050 INFO 192.168.2.22 - - [10/Aug/2024 14:51:28] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:28,056 INFO 192.168.2.22 - - [10/Aug/2024 14:51:28] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:28,087 INFO POST request data: {'heartrate': 44.0, 'humidity': 53.0, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 17.0, 'temperature1': 21.35, 'temperature2': 25.5, 'temperature3': 23.09}
+2024-08-10 14:51:28,099 INFO 192.168.2.22 - - [10/Aug/2024 14:51:28] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:28,127 INFO POST request data: {'heartrate': 44.0, 'humidity': 53.0, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 17.0, 'temperature1': 21.35, 'temperature2': 25.5, 'temperature3': 23.09}
+2024-08-10 14:51:28,133 INFO 192.168.2.22 - - [10/Aug/2024 14:51:28] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:28,138 INFO 192.168.2.22 - - [10/Aug/2024 14:51:28] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:28,166 INFO POST request data: {'heartrate': 44.0, 'humidity': 53.0, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 17.0, 'temperature1': 21.35, 'temperature2': 25.5, 'temperature3': 23.09}
+2024-08-10 14:51:28,177 INFO 192.168.2.22 - - [10/Aug/2024 14:51:28] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:42,873 INFO POST request data: {'heartrate': 44.0, 'humidity': 43.89, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 17.0, 'temperature1': 21.35, 'temperature2': 25.5, 'temperature3': 23.09}
+2024-08-10 14:51:42,895 INFO 192.168.2.22 - - [10/Aug/2024 14:51:42] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:42,912 INFO POST request data: {'heartrate': 44.0, 'humidity': 43.89, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 17.0, 'temperature1': 21.35, 'temperature2': 25.5, 'temperature3': 23.09}
+2024-08-10 14:51:42,922 INFO 192.168.2.22 - - [10/Aug/2024 14:51:42] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:48,050 INFO POST request data: {'heartrate': 72.0, 'humidity': 43.81, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 0.0, 'temperature1': 21.34, 'temperature2': 25.5, 'temperature3': 23.1}
+2024-08-10 14:51:48,056 INFO 192.168.2.22 - - [10/Aug/2024 14:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:48,056 INFO 192.168.2.22 - - [10/Aug/2024 14:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:48,062 INFO 192.168.2.22 - - [10/Aug/2024 14:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:48,089 INFO POST request data: {'heartrate': 72.0, 'humidity': 43.81, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 0.0, 'temperature1': 21.34, 'temperature2': 25.5, 'temperature3': 23.1}
+2024-08-10 14:51:48,091 INFO 192.168.2.22 - - [10/Aug/2024 14:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:48,129 INFO POST request data: {'heartrate': 72.0, 'humidity': 43.81, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 0.0, 'temperature1': 21.34, 'temperature2': 25.5, 'temperature3': 23.1}
+2024-08-10 14:51:48,130 INFO 192.168.2.22 - - [10/Aug/2024 14:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:48,135 INFO 192.168.2.22 - - [10/Aug/2024 14:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:48,136 INFO 192.168.2.22 - - [10/Aug/2024 14:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:51:48,151 INFO POST request data: {'heartrate': 72.0, 'humidity': 43.81, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 0.0, 'temperature1': 21.34, 'temperature2': 25.5, 'temperature3': 23.1}
+2024-08-10 14:51:48,173 INFO 192.168.2.22 - - [10/Aug/2024 14:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:51:48,190 INFO POST request data: {'heartrate': 72.0, 'humidity': 43.81, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 0.0, 'temperature1': 21.34, 'temperature2': 25.5, 'temperature3': 23.1}
+2024-08-10 14:51:48,201 INFO 192.168.2.22 - - [10/Aug/2024 14:51:48] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:52:02,942 INFO POST request data: {'heartrate': 55.0, 'humidity': 44.78, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 48.0, 'temperature1': 21.32, 'temperature2': 25.5, 'temperature3': 23.09}
+2024-08-10 14:52:02,943 INFO 192.168.2.22 - - [10/Aug/2024 14:52:02] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:52:02,966 INFO POST request data: {'heartrate': 55.0, 'humidity': 44.78, 'ipv': 0.0, 'pressure': -295.24, 'spo2': 48.0, 'temperature1': 21.32, 'temperature2': 25.5, 'temperature3': 23.09}
+2024-08-10 14:52:02,978 INFO 192.168.2.22 - - [10/Aug/2024 14:52:02] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:52:08,034 INFO POST request data: {'heartrate': 48.0, 'humidity': 43.82, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 23.0, 'temperature1': 21.31, 'temperature2': 25.5, 'temperature3': 23.06}
+2024-08-10 14:52:08,055 INFO 192.168.2.22 - - [10/Aug/2024 14:52:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:52:08,073 INFO POST request data: {'heartrate': 48.0, 'humidity': 43.82, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 23.0, 'temperature1': 21.31, 'temperature2': 25.5, 'temperature3': 23.06}
+2024-08-10 14:52:08,089 INFO 192.168.2.22 - - [10/Aug/2024 14:52:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:52:08,106 INFO 192.168.2.22 - - [10/Aug/2024 14:52:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:52:08,123 INFO POST request data: {'heartrate': 48.0, 'humidity': 43.82, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 23.0, 'temperature1': 21.31, 'temperature2': 25.5, 'temperature3': 23.06}
+2024-08-10 14:52:08,150 INFO POST request data: {'heartrate': 48.0, 'humidity': 43.82, 'ipv': 0.0, 'pressure': -295.26, 'spo2': 23.0, 'temperature1': 21.31, 'temperature2': 25.5, 'temperature3': 23.06}
+2024-08-10 14:52:08,157 INFO 192.168.2.22 - - [10/Aug/2024 14:52:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:52:08,157 INFO 192.168.2.22 - - [10/Aug/2024 14:52:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:52:08,159 INFO 192.168.2.22 - - [10/Aug/2024 14:52:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:52:08,161 INFO 192.168.2.22 - - [10/Aug/2024 14:52:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 14:52:08,167 INFO 192.168.2.22 - - [10/Aug/2024 14:52:08] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 14:52:08,172 INFO 192.168.2.22 - - [10/Aug/2024 14:52:08] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:05:21,720 INFO 192.168.2.22 - - [10/Aug/2024 15:05:21] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 15:05:21,791 INFO POST request data: {}
+2024-08-10 15:05:21,802 INFO 192.168.2.22 - - [10/Aug/2024 15:05:21] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:06:09,796 INFO POST request data: {}
+2024-08-10 15:06:09,807 INFO 192.168.2.22 - - [10/Aug/2024 15:06:09] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:06:31,666 INFO 192.168.2.22 - - [10/Aug/2024 15:06:31] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 15:06:31,676 INFO 192.168.2.22 - - [10/Aug/2024 15:06:31] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 15:06:31,711 INFO POST request data: {}
+2024-08-10 15:06:31,722 INFO 192.168.2.22 - - [10/Aug/2024 15:06:31] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:06:51,636 INFO POST request data: {'heartrate': 39.0, 'humidity': 39.7, 'ipv': 0.0, 'pressure': -295.3, 'spo2': 77.0, 'temperature1': 21.29, 'temperature2': 25.5, 'temperature3': 23.04}
+2024-08-10 15:06:51,641 INFO 192.168.2.22 - - [10/Aug/2024 15:06:51] "[35m[1mPOST /data HTTP/1.1[0m" 500 -
+2024-08-10 15:06:51,648 INFO 192.168.2.22 - - [10/Aug/2024 15:06:51] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:06:51,675 INFO POST request data: {'heartrate': 39.0, 'humidity': 39.7, 'ipv': 0.0, 'pressure': -295.3, 'spo2': 77.0, 'temperature1': 21.29, 'temperature2': 25.5, 'temperature3': 23.04}
+2024-08-10 15:06:51,686 INFO 192.168.2.22 - - [10/Aug/2024 15:06:51] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:07:40,655 INFO POST request data: {}
+2024-08-10 15:07:40,665 INFO 192.168.2.22 - - [10/Aug/2024 15:07:40] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:07:50,654 INFO POST request data: {}
+2024-08-10 15:07:50,665 INFO 192.168.2.22 - - [10/Aug/2024 15:07:50] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:08:00,702 INFO POST request data: {}
+2024-08-10 15:08:00,713 INFO 192.168.2.22 - - [10/Aug/2024 15:08:00] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:08:04,226 INFO POST request data: {}
+2024-08-10 15:08:04,237 INFO 192.168.2.22 - - [10/Aug/2024 15:08:04] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:08:11,485 INFO POST request data: {}
+2024-08-10 15:08:11,496 INFO 192.168.2.22 - - [10/Aug/2024 15:08:11] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:08:21,549 INFO POST request data: {'heartrate': 59.0, 'humidity': 39.33, 'ipv': 0.0, 'pressure': -295.25, 'spo2': 55.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 23.06}
+2024-08-10 15:08:21,560 INFO 192.168.2.22 - - [10/Aug/2024 15:08:21] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:08:31,596 INFO POST request data: {'heartrate': 73.0, 'humidity': 39.29, 'ipv': 0.0, 'pressure': -295.35, 'spo2': 93.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 23.04}
+2024-08-10 15:08:31,607 INFO 192.168.2.22 - - [10/Aug/2024 15:08:31] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:08:41,661 INFO POST request data: {'heartrate': 73.0, 'humidity': 39.29, 'ipv': 0.0, 'pressure': -295.35, 'spo2': 93.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 23.04}
+2024-08-10 15:08:41,671 INFO 192.168.2.22 - - [10/Aug/2024 15:08:41] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:08:51,729 INFO POST request data: {'heartrate': 58.0, 'humidity': 39.36, 'ipv': 0.0, 'pressure': -295.37, 'spo2': 73.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 23.03}
+2024-08-10 15:08:51,739 INFO 192.168.2.22 - - [10/Aug/2024 15:08:51] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:09:01,784 INFO POST request data: {'heartrate': 49.0, 'humidity': 39.28, 'ipv': 0.0, 'pressure': -295.37, 'spo2': 100.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 23.03}
+2024-08-10 15:09:01,795 INFO 192.168.2.22 - - [10/Aug/2024 15:09:01] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:09:11,868 INFO POST request data: {'heartrate': 49.0, 'humidity': 39.28, 'ipv': 0.0, 'pressure': -295.37, 'spo2': 100.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 23.03}
+2024-08-10 15:09:11,879 INFO 192.168.2.22 - - [10/Aug/2024 15:09:11] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:09:21,910 INFO POST request data: {'heartrate': 64.0, 'humidity': 39.13, 'ipv': 0.0, 'pressure': -295.38, 'spo2': 62.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 23.03}
+2024-08-10 15:09:21,922 INFO 192.168.2.22 - - [10/Aug/2024 15:09:21] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:09:31,968 INFO POST request data: {'heartrate': 30.0, 'humidity': 39.11, 'ipv': 0.0, 'pressure': -295.37, 'spo2': 44.0, 'temperature1': 21.28, 'temperature2': 25.5, 'temperature3': 23.03}
+2024-08-10 15:09:31,979 INFO 192.168.2.22 - - [10/Aug/2024 15:09:31] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:09:42,028 INFO POST request data: {'heartrate': 30.0, 'humidity': 39.11, 'ipv': 0.0, 'pressure': -295.37, 'spo2': 44.0, 'temperature1': 21.28, 'temperature2': 25.5, 'temperature3': 23.03}
+2024-08-10 15:09:42,039 INFO 192.168.2.22 - - [10/Aug/2024 15:09:42] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:09:52,081 INFO POST request data: {'heartrate': 52.0, 'humidity': 39.14, 'ipv': 0.0, 'pressure': -295.39, 'spo2': 16.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 15:09:52,092 INFO 192.168.2.22 - - [10/Aug/2024 15:09:52] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:10:02,123 INFO POST request data: {'heartrate': 52.0, 'humidity': 39.14, 'ipv': 0.0, 'pressure': -295.39, 'spo2': 16.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 15:10:02,136 INFO 192.168.2.22 - - [10/Aug/2024 15:10:02] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:10:12,218 INFO POST request data: {'heartrate': 56.0, 'humidity': 39.07, 'ipv': 0.0, 'pressure': -295.35, 'spo2': 35.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 23.0}
+2024-08-10 15:10:12,229 INFO 192.168.2.22 - - [10/Aug/2024 15:10:12] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:10:22,253 INFO POST request data: {'heartrate': 62.0, 'humidity': 39.02, 'ipv': 0.0, 'pressure': -295.38, 'spo2': 70.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 15:10:22,264 INFO 192.168.2.22 - - [10/Aug/2024 15:10:22] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:10:32,340 INFO POST request data: {'heartrate': 62.0, 'humidity': 39.02, 'ipv': 0.0, 'pressure': -295.38, 'spo2': 70.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 23.01}
+2024-08-10 15:10:32,351 INFO 192.168.2.22 - - [10/Aug/2024 15:10:32] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:10:42,396 INFO POST request data: {'heartrate': 44.0, 'humidity': 39.33, 'ipv': 0.0, 'pressure': -295.35, 'spo2': 82.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.96}
+2024-08-10 15:10:42,407 INFO 192.168.2.22 - - [10/Aug/2024 15:10:42] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:11:02,616 INFO POST request data: {'heartrate': 87.0, 'humidity': 39.4, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 68.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.91}
+2024-08-10 15:11:02,629 INFO 192.168.2.22 - - [10/Aug/2024 15:11:02] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:11:12,790 INFO POST request data: {'heartrate': 54.0, 'humidity': 39.22, 'ipv': 0.0, 'pressure': -295.4, 'spo2': 27.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.88}
+2024-08-10 15:11:12,802 INFO 192.168.2.22 - - [10/Aug/2024 15:11:12] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:11:22,673 INFO POST request data: {'heartrate': 54.0, 'humidity': 39.22, 'ipv': 0.0, 'pressure': -295.4, 'spo2': 27.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.88}
+2024-08-10 15:11:22,683 INFO 192.168.2.22 - - [10/Aug/2024 15:11:22] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:11:32,849 INFO POST request data: {'heartrate': 60.0, 'humidity': 39.37, 'ipv': 0.0, 'pressure': -295.43, 'spo2': 49.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 15:11:32,860 INFO 192.168.2.22 - - [10/Aug/2024 15:11:32] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:11:42,792 INFO POST request data: {'heartrate': 82.0, 'humidity': 39.53, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 73.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.82}
+2024-08-10 15:11:42,803 INFO 192.168.2.22 - - [10/Aug/2024 15:11:42] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:11:52,883 INFO POST request data: {'heartrate': 82.0, 'humidity': 39.53, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 73.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.82}
+2024-08-10 15:11:52,895 INFO 192.168.2.22 - - [10/Aug/2024 15:11:52] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:12:02,987 INFO POST request data: {'heartrate': 67.0, 'humidity': 39.37, 'ipv': 0.0, 'pressure': -295.43, 'spo2': 40.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.8}
+2024-08-10 15:12:02,998 INFO 192.168.2.22 - - [10/Aug/2024 15:12:02] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:12:13,071 INFO POST request data: {'heartrate': 67.0, 'humidity': 39.37, 'ipv': 0.0, 'pressure': -295.43, 'spo2': 40.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.8}
+2024-08-10 15:12:13,082 INFO 192.168.2.22 - - [10/Aug/2024 15:12:13] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:12:23,042 INFO POST request data: {'heartrate': 19.0, 'humidity': 39.37, 'ipv': 0.0, 'pressure': -295.43, 'spo2': 64.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.78}
+2024-08-10 15:12:23,053 INFO 192.168.2.22 - - [10/Aug/2024 15:12:23] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:12:33,183 INFO POST request data: {'heartrate': 55.0, 'humidity': 39.63, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 9.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.74}
+2024-08-10 15:12:33,194 INFO 192.168.2.22 - - [10/Aug/2024 15:12:33] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:12:43,179 INFO POST request data: {'heartrate': 55.0, 'humidity': 39.63, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 9.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.74}
+2024-08-10 15:12:43,191 INFO 192.168.2.22 - - [10/Aug/2024 15:12:43] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:12:53,202 INFO POST request data: {'heartrate': 35.0, 'humidity': 39.51, 'ipv': 0.0, 'pressure': -295.42, 'spo2': 54.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.74}
+2024-08-10 15:12:53,213 INFO 192.168.2.22 - - [10/Aug/2024 15:12:53] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:13:03,291 INFO POST request data: {'heartrate': 35.0, 'humidity': 39.51, 'ipv': 0.0, 'pressure': -295.42, 'spo2': 54.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.74}
+2024-08-10 15:13:03,303 INFO 192.168.2.22 - - [10/Aug/2024 15:13:03] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:13:13,341 INFO POST request data: {'heartrate': 41.0, 'humidity': 39.52, 'ipv': 0.0, 'pressure': -295.39, 'spo2': 38.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.75}
+2024-08-10 15:13:13,353 INFO 192.168.2.22 - - [10/Aug/2024 15:13:13] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:13:23,391 INFO POST request data: {'heartrate': 66.0, 'humidity': 39.43, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 61.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.78}
+2024-08-10 15:13:23,402 INFO 192.168.2.22 - - [10/Aug/2024 15:13:23] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:13:33,463 INFO POST request data: {'heartrate': 66.0, 'humidity': 39.43, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 61.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.78}
+2024-08-10 15:13:33,474 INFO 192.168.2.22 - - [10/Aug/2024 15:13:33] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:13:43,536 INFO POST request data: {'heartrate': 54.0, 'humidity': 39.34, 'ipv': 0.0, 'pressure': -295.36, 'spo2': 61.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.78}
+2024-08-10 15:13:43,547 INFO 192.168.2.22 - - [10/Aug/2024 15:13:43] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:13:53,625 INFO POST request data: {'heartrate': 65.0, 'humidity': 39.31, 'ipv': 0.0, 'pressure': -295.39, 'spo2': 81.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 15:13:53,637 INFO 192.168.2.22 - - [10/Aug/2024 15:13:53] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:14:03,656 INFO POST request data: {'heartrate': 65.0, 'humidity': 39.31, 'ipv': 0.0, 'pressure': -295.39, 'spo2': 81.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.76}
+2024-08-10 15:14:03,667 INFO 192.168.2.22 - - [10/Aug/2024 15:14:03] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:14:13,767 INFO POST request data: {'heartrate': 66.0, 'humidity': 39.19, 'ipv': 0.0, 'pressure': -295.36, 'spo2': 70.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.78}
+2024-08-10 15:14:13,777 INFO 192.168.2.22 - - [10/Aug/2024 15:14:13] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:14:23,820 INFO POST request data: {'heartrate': 66.0, 'humidity': 39.19, 'ipv': 0.0, 'pressure': -295.36, 'spo2': 70.0, 'temperature1': 21.23, 'temperature2': 25.5, 'temperature3': 22.78}
+2024-08-10 15:14:23,830 INFO 192.168.2.22 - - [10/Aug/2024 15:14:23] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:14:33,883 INFO POST request data: {'heartrate': 27.0, 'humidity': 39.13, 'ipv': 0.0, 'pressure': -295.36, 'spo2': 71.0, 'temperature1': 21.26, 'temperature2': 25.5, 'temperature3': 22.79}
+2024-08-10 15:14:33,895 INFO 192.168.2.22 - - [10/Aug/2024 15:14:33] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:14:43,874 INFO POST request data: {'heartrate': 79.0, 'humidity': 38.94, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 73.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.82}
+2024-08-10 15:14:43,885 INFO 192.168.2.22 - - [10/Aug/2024 15:14:43] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:14:53,935 INFO POST request data: {'heartrate': 79.0, 'humidity': 38.94, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 73.0, 'temperature1': 21.25, 'temperature2': 25.5, 'temperature3': 22.82}
+2024-08-10 15:14:53,947 INFO 192.168.2.22 - - [10/Aug/2024 15:14:53] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:15:03,981 INFO POST request data: {'heartrate': 51.0, 'humidity': 38.92, 'ipv': 0.0, 'pressure': -295.4, 'spo2': 43.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 15:15:03,992 INFO 192.168.2.22 - - [10/Aug/2024 15:15:03] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:15:14,101 INFO POST request data: {'heartrate': 51.0, 'humidity': 38.92, 'ipv': 0.0, 'pressure': -295.4, 'spo2': 43.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 15:15:14,111 INFO 192.168.2.22 - - [10/Aug/2024 15:15:14] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:15:24,159 INFO POST request data: {'heartrate': 70.0, 'humidity': 38.93, 'ipv': 0.0, 'pressure': -295.36, 'spo2': 88.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 15:15:24,170 INFO 192.168.2.22 - - [10/Aug/2024 15:15:24] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:15:34,230 INFO POST request data: {'heartrate': 46.0, 'humidity': 38.64, 'ipv': 0.0, 'pressure': -295.4, 'spo2': 65.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.84}
+2024-08-10 15:15:34,241 INFO 192.168.2.22 - - [10/Aug/2024 15:15:34] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:15:44,234 INFO POST request data: {'heartrate': 46.0, 'humidity': 38.64, 'ipv': 0.0, 'pressure': -295.4, 'spo2': 65.0, 'temperature1': 21.22, 'temperature2': 25.5, 'temperature3': 22.84}
+2024-08-10 15:15:44,245 INFO 192.168.2.22 - - [10/Aug/2024 15:15:44] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:15:54,287 INFO POST request data: {'heartrate': 40.0, 'humidity': 38.71, 'ipv': 0.0, 'pressure': -295.42, 'spo2': 35.0, 'temperature1': 21.24, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 15:15:54,299 INFO 192.168.2.22 - - [10/Aug/2024 15:15:54] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:16:04,371 INFO POST request data: {'heartrate': 74.0, 'humidity': 38.82, 'ipv': 0.0, 'pressure': -295.4, 'spo2': 22.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 15:16:04,382 INFO 192.168.2.22 - - [10/Aug/2024 15:16:04] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:16:14,377 INFO POST request data: {'heartrate': 74.0, 'humidity': 38.82, 'ipv': 0.0, 'pressure': -295.4, 'spo2': 22.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.85}
+2024-08-10 15:16:14,389 INFO 192.168.2.22 - - [10/Aug/2024 15:16:14] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:16:24,431 INFO POST request data: {'heartrate': 62.0, 'humidity': 38.68, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 36.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.84}
+2024-08-10 15:16:24,441 INFO 192.168.2.22 - - [10/Aug/2024 15:16:24] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:16:34,491 INFO POST request data: {'heartrate': 62.0, 'humidity': 38.68, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 36.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.84}
+2024-08-10 15:16:34,502 INFO 192.168.2.22 - - [10/Aug/2024 15:16:34] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:16:44,581 INFO POST request data: {'heartrate': 82.0, 'humidity': 38.75, 'ipv': 0.0, 'pressure': -295.44, 'spo2': 0.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.83}
+2024-08-10 15:16:44,593 INFO 192.168.2.22 - - [10/Aug/2024 15:16:44] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:16:54,614 INFO POST request data: {'heartrate': 70.0, 'humidity': 38.83, 'ipv': 0.0, 'pressure': -295.38, 'spo2': 65.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 22.81}
+2024-08-10 15:16:54,625 INFO 192.168.2.22 - - [10/Aug/2024 15:16:54] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:17:04,728 INFO POST request data: {'heartrate': 70.0, 'humidity': 38.83, 'ipv': 0.0, 'pressure': -295.38, 'spo2': 65.0, 'temperature1': 21.21, 'temperature2': 25.5, 'temperature3': 22.81}
+2024-08-10 15:17:04,739 INFO 192.168.2.22 - - [10/Aug/2024 15:17:04] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
+2024-08-10 15:17:14,738 INFO POST request data: {'heartrate': 71.0, 'humidity': 38.91, 'ipv': 0.0, 'pressure': -295.41, 'spo2': 0.0, 'temperature1': 21.19, 'temperature2': 25.5, 'temperature3': 22.81}
+2024-08-10 15:17:14,750 INFO 192.168.2.22 - - [10/Aug/2024 15:17:14] "[35m[1mPOST /data HTTP/1.1[0m" 201 -
